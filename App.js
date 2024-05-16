@@ -1,6 +1,4 @@
 const sliderImg = document.querySelector("#sliderImg");
-// const nextButton = document.querySelector('#nextbtn');
-// const prevButton = document.querySelector('#prevbtn');
 
 const images = ["a.jpg", "b.jpg", "c.jpg", "d.jpg", "e.jpg", "f.jpg"];
 

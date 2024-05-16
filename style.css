@@ -1,0 +1,46 @@
+.container {
+     text-align: center;
+ }
+ 
+ .MainBox {
+     display: inline-block;
+     position: relative;
+     margin-top: 50px;
+ }
+ 
+ .imageArea img {
+     width: 400px;
+     height: 300px;
+     border-radius: 5px;
+     box-shadow: 0px 0px 10px #8f8d8d;
+ }
+ 
+ .row {
+     display: block;
+ }
+ 
+ button {
+     display: inline-block;
+     margin-top: 10px; /* Adjust as needed */
+ }
+ 
+
+ .btnArea {
+     margin-top: 10px; /* Adjust as needed */
+ }
+ 
+ .btnArea button {
+     display: inline-block;
+     padding: 10px 20px;
+     background-color: #007bff;
+     color: #fff;
+     border: none;
+     border-radius: 5px;
+     cursor: pointer;
+     margin-right: 10px; /* Adjust spacing between buttons */
+ }
+ 
+ .btnArea button:last-child {
+     margin-right: 0; /* Remove margin from the last button */
+ }
+ 
